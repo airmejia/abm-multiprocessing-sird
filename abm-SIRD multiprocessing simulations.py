@@ -166,7 +166,6 @@ def simulation(parameters):
     end_time = time.time()
     execution_time = end_time - start_time
     print_cell(init_row + row_idx, init_col + col_idx * 7, execution_time, 'f')
-    #print(f"-- End   Sim-{id}: {time.strftime("%Y-%m-%d %H:%M:%S")} Time: {execution_time:.2f} seconds")
 
     #plotPopulation('Final Population '+str(population_size), 'Position x', 'Position y', the_grid.population, status_list, colors_list, markers_list, markers_sizes)
       
