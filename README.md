@@ -51,7 +51,7 @@ Participants are encouraged to send their results to:
 
 **Suggested subject:** ABM CPU Performance Evaluation – Experimental Results
 
-Please include your github profile name.
+Please include your name and github profile.
 
 Participation is voluntary. Submitted results will be used for academic research purposes.
 
